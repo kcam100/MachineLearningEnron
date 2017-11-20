@@ -1,0 +1,10 @@
+1.)http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html
+2.)https://discussions.udacity.com/t/pickling-pandas-df/174753/2
+3.)http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
+4.)http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html
+5.)http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+6.)https://discussions.udacity.com/t/project-fear-strugging-with-machine-learning-project/198529/52
+7.)https://discussions.udacity.com/t/getting-started-with-ml-project/342397/10
+8.)https://discussions.udacity.com/t/how-to-get-kbest-features-kept/160463/3
+
+I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc.
